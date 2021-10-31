@@ -13,5 +13,5 @@
 
 PS:对搭建MySQL有顾虑的，可以使用我们临时的MySQL题库。
 Address  ：dbs-connect-cn-0.ip.parts
-User Name: vedbs_1905
-Password : EzDaR3DxLd
+User Name: vedbs_1909
+Password : H2N3ErhqzF
